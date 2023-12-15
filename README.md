@@ -1,1 +1,1 @@
-[Privacy Policy](privacy_policy.md)
+* https://DemonDezard.github.io/JumpingHead/
